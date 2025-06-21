@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fdba158.css",
+    "main.js": "/static/js/main.288fc438.js",
+    "static/js/453.b72b36d6.chunk.js": "/static/js/453.b72b36d6.chunk.js",
+    "static/media/Girl1.png": "/static/media/Girl1.82693cf4ff4c47d118d5.png",
+    "static/media/cream.jpg": "/static/media/cream.87415073e7ebb0ed9a47.jpg",
+    "static/media/sunscreen.jpg": "/static/media/sunscreen.87415073e7ebb0ed9a47.jpg",
+    "static/media/person 1.svg": "/static/media/person 1.1d86ad61e54cbfb60792a5dcf0b7d6c9.svg",
+    "static/media/bag-4-svgrepo-com 1.svg": "/static/media/bag-4-svgrepo-com 1.b248fcee98f9d894f94543324e882da3.svg",
+    "index.html": "/index.html",
+    "static/media/heart-svgrepo-com (1) 1.svg": "/static/media/heart-svgrepo-com (1) 1.b87f3b4c614d378fa49e76e88d663826.svg",
+    "main.5fdba158.css.map": "/static/css/main.5fdba158.css.map",
+    "main.288fc438.js.map": "/static/js/main.288fc438.js.map",
+    "453.b72b36d6.chunk.js.map": "/static/js/453.b72b36d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fdba158.css",
+    "static/js/main.288fc438.js"
+  ]
+}
